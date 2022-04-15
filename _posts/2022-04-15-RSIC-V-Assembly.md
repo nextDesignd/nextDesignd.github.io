@@ -3,7 +3,6 @@ layout: post
 title:  "RISC-V Assembly"
 categories: 
 ---
-# RISC-V Assembly
 ## Flow Control Instructions
 A Instruction Set has to provide mechanism for programs to conditionally execute
 code. These would be required to implement if-else, loops and case among other 
